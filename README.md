@@ -26,7 +26,6 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android" width="45" />
   <img src="https://skillicons.dev/icons?i=cpp" width="45" />
   <img src="https://skillicons.dev/icons?i=git" width="45" />
   <img src="https://skillicons.dev/icons?i=python" width="45" />
